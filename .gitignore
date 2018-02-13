@@ -33,3 +33,6 @@
 
 # Inputs
 *.in
+
+#Mac files
+.DS_Store
